@@ -13,5 +13,4 @@ Built with React, TypeScript, Vite, Tailwind CSS, and React Router.
 
 <a href="https://sparkling-bonbon-d2f009.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo – Visit the app here!</a>
 
-[go](https://sparkling-bonbon-d2f009.netlify.app/){:target="_blank" rel="noopener"}
 ---
