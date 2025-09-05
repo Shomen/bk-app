@@ -9,5 +9,7 @@ This is a React-based booking application for all kinds of service providers. Us
 - Navigation and footer for a complete user experience
 
 Built with React, TypeScript, Vite, Tailwind CSS, and React Router.
+---
 
+[Live Demo](https://sparkling-bonbon-d2f009.netlify.app/) – Visit the app here!
 ---
