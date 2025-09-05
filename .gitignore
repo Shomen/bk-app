@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage
+coverage/
+
+# Misc
+*.tgz
+
+# TypeScript
+*.tsbuildinfo
+
+# Others
+package-lock.json
+yarn.lock
+
+# Public files
+public/vite.svg
+public/images/
