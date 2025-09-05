@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "category": "Wellness",
+  "name": "Lorem Ipsum",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod. Vivamus euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod. Etiam euismod, nisi eu consectetur consectetur, nisl nisi euismod nisi, euismod euismod nisi nisi euismod.",
+    "price": 120,
+  "image": "/images/spa-pexels-olly-3757942.jpg",
+    "duration": "1 hour",
+    "address": "123 Wellness St, Healthy City"
+  },
+  {
+    "id": 2,
+    "category": "Fitness",
+  "name": "Dolor Sit Amet",
+  "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem.",
+    "price": 75,
+  "image": "/images/Fit-pexels-goumbik-669584.jpg",
+    "duration": "1 hour",
+    "address": "456 Fitness Ave, Strongtown"
+  },
+  {
+    "id": 3,
+    "category": "Beauty",
+  "name": "Consectetur Adipiscing",
+  "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit.",
+    "price": 50,
+  "image": "/images/Beauty-pexels-cottonbro-3993294.jpg",
+    "duration": "30 minutes",
+    "address": "789 Style Rd, Fashion City"
+  },
+  {
+    "id": 4,
+    "category": "Gaming",
+  "name": "Vivamus Euismod",
+  "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "price": 70,
+  "image": "/images/Game-pexels-matthiaszomer-344034.jpg",
+    "duration": "1 hour",
+    "address": "101 Bowling Ln, Funville"
+  },
+  {
+    "id": 5,
+    "category": "Wellness",
+  "name": "Perspiciatis Unde",
+  "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+    "price": 180,
+  "image": "/images/Spa-pexels-valeriya-1123256.jpg",
+    "duration": "1 hour",
+    "address": "321 Relax Rd, Calm City"
+  },
+  {
+    "id": 6,
+    "category": "Gaming",
+  "name": "Quasi Architecto",
+  "description": "Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus.",
+    "price": 50,
+  "image": "/images/Game-pexels-cottonbro-5739218.jpg",
+    "duration": "1 hour",
+    "address": "654 Shuttlecock St, Sportstown"
+  }
+]
