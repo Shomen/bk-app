@@ -11,6 +11,6 @@ This is a React-based booking application for all kinds of service providers. Us
 Built with React, TypeScript, Vite, Tailwind CSS, and React Router.
 ---
 
-<a href="https://services-booking-app.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo – Visit the app here!</a>
+<a href="https://book-your-service.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo – Visit the app here!</a>
 
 ---
