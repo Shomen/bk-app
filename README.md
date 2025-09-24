@@ -29,6 +29,8 @@ Built with React, TypeScript, Vite, Tailwind CSS, and React Router.
   
   ![Mobile - Home](public/images/BkHomeMob.jpg)
 
+- Mobile (≤430px) booking page
+
   ![Mobile - Home](public/images/BkHomeMob2.jpg)
 
 
