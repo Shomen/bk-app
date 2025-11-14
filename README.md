@@ -12,7 +12,7 @@ Built with React, TypeScript, Vite, Tailwind CSS, and React Router.
 
 ---
 
-<a href="https://book-your-service.netlify.app/" target="_blank" rel="noopener noreferrer">Live Demo – Visit the app here!</a>
+<a href="https://book-your-service-psi.vercel.app/" target="_blank" rel="noopener noreferrer">Live Demo – Visit the app here!</a>
 
 ## Screenshots
 
